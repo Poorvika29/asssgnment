@@ -1,0 +1,5 @@
+C:\Users\Poorvika Ujjaini\source\repos\AssignmentWebApi\DoctorEntity\bin\Debug\DoctorEntity.dll
+C:\Users\Poorvika Ujjaini\source\repos\AssignmentWebApi\DoctorEntity\bin\Debug\DoctorEntity.pdb
+C:\Users\Poorvika Ujjaini\source\repos\AssignmentWebApi\DoctorEntity\obj\Debug\DoctorEntity.csproj.CoreCompileInputs.cache
+C:\Users\Poorvika Ujjaini\source\repos\AssignmentWebApi\DoctorEntity\obj\Debug\DoctorEntity.dll
+C:\Users\Poorvika Ujjaini\source\repos\AssignmentWebApi\DoctorEntity\obj\Debug\DoctorEntity.pdb
